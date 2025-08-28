@@ -1,0 +1,107 @@
+[2025-08-24 23:49:34] You: What is 12 times 7?
+[2025-08-24 23:49:34] Bot: 84
+
+[2025-08-24 23:49:50] You: Add 45 and 30
+[2025-08-24 23:49:50] Bot: 45 + 30 = 75
+
+[2025-08-24 23:51:04] You: What is the capital of France?
+[2025-08-24 23:51:04] Bot: Paris
+
+[2025-08-24 23:51:12] You: capital of india
+[2025-08-24 23:51:12] Bot: New Delhi
+
+[2025-08-24 23:51:21] You: capital of telangana
+[2025-08-24 23:51:21] Bot: Hyderabad
+
+[2025-08-24 23:51:33] You: capital of andhrapradesh
+[2025-08-24 23:51:33] Bot: Amaravati
+
+[2025-08-24 23:51:53] You: history of telangana
+[2025-08-24 23:51:53] Bot: The history of Telangana is long and complex, spanning millennia.  Key periods include:
+
+* **Ancient Period (Pre-14th Century):**  The region was part of various empires and kingdoms, including the Satavahanas, the Vakatakas, the Chalukyas, and the Kakatiyas. The Kakatiya dynasty (11th-14th centuries) is particularly significant, establishing a powerful and prosperous kingdom centered in Warangal.  Their reign saw significant advancements in art, architecture, and irrigation.
+
+* **Medieval Period (14th-18th Centuries):** Following the fall of the Kakatiyas, Telangana came under the rule of the Delhi Sultanate, the Bahmani Sultanate, and ultimately, the Qutb Shahi dynasty.  The Qutb Shahis established Hyderabad as their capital and fostered a unique blend of Persian and Deccan cultures.
+
+* **Nizami Rule (18th-20th Centuries):**  The Mughal Empire's control weakened, and Asaf Jah I, a viceroy under the Mughals, established the independent Asaf Jahi dynasty (also known as the Nizams).  This period saw the growth of Hyderabad State, a large princely state within British India, known for its wealth and relative autonomy.  However, the Nizams' rule was also characterized by social inequalities and limited political participation for the majority Telugu-speaking population.
+
+* **20th Century and Formation of Telangana:**  The 20th century saw growing calls for greater autonomy and ultimately, a separate state.  The Telangana movement, fueled by grievances related to regional disparity, economic inequality, and perceived discrimination against the Telugu-speaking population, gained momentum in the post-independence era.  After decades of struggle, the state of Telangana was finally carved out of Andhra Pradesh on June 2, 2014.
+
+
+In short, Telangana's history is one of powerful kingdoms, cultural synthesis, and a protracted struggle for self-determination, culminating in its establishment as a separate Indian state.
+
+[2025-08-24 23:52:20] You: history of Andhra and 20+10
+[2025-08-24 23:52:20] Bot: Sorry, I cannot handle combined math + non-math queries yet.
+
+[2025-08-25 00:03:28] You: What is 12 times 7?
+[2025-08-25 00:03:28] Bot: Sorry, I cannot handle combined math + non-math queries yet.
+
+[2025-08-25 00:04:00] You: Add 45 and 30
+[2025-08-25 00:04:00] Bot: Sorry, I cannot handle combined math + non-math queries yet.
+
+[2025-08-25 00:04:12] You: What is the capital of France?
+[2025-08-25 00:04:12] Bot: Paris
+
+[2025-08-25 00:05:10] You: What is 12 times 7?
+[2025-08-25 00:05:10] Bot: Error: invalid syntax (<string>, line 0)
+
+[2025-08-25 00:05:18] You: Add 45 and 30
+[2025-08-25 00:05:18] Bot: Result: 45
+
+[2025-08-25 00:05:43] You: difference of 15 and 10
+[2025-08-25 00:05:43] Bot: The difference between 15 and 10 is 5.
+
+[2025-08-25 00:07:12] You: What is 12 times 7
+[2025-08-25 00:07:12] Bot: Error: invalid syntax (<string>, line 0)
+
+[2025-08-25 00:07:23] You: What is 12 times 7
+[2025-08-25 00:07:23] Bot: Result: 84
+
+[2025-08-25 00:08:03] You: Add 45 and 30
+[2025-08-25 00:08:03] Bot: Result: 75
+
+[2025-08-25 00:08:34] You: What is the capital of France
+[2025-08-25 00:08:34] Bot: Paris
+
+[2025-08-25 00:09:06] You: Multiply 9 and 8, and also tell me the capital of Japan
+[2025-08-25 00:09:06] Bot: Error: invalid syntax (<string>, line 1)
+
+[2025-08-25 00:12:45] You: 10+15
+[2025-08-25 00:12:45] Bot: Result: 25
+
+[2025-08-25 00:16:11] You: Multiply 9 and 8, and also tell me the capital of Japan
+[2025-08-25 00:16:11] Bot: Graceful failure (no multi-step yet).
+
+[2025-08-25 00:16:20] You: 9and8
+[2025-08-25 00:16:20] Bot: Graceful failure (no multi-step yet).
+
+[2025-08-25 00:16:31] You: 9 and 8
+[2025-08-25 00:16:31] Bot: The numbers are 9 and 8.  There is no question to answer.
+
+[2025-08-25 00:16:42] You: add 9 8
+[2025-08-25 00:16:42] Bot: Graceful failure (no multi-step yet).
+
+[2025-08-25 00:16:50] You: add 9 and 8
+[2025-08-25 00:16:50] Bot: Graceful failure (no multi-step yet).
+
+[2025-08-25 00:18:42] You: "Multiply 9 and 8, and also tell me the capital of Japan
+[2025-08-25 00:18:42] Bot: Error: invalid syntax (<string>, line 1)
+
+[2025-08-25 00:18:54] You: add 9 and 8
+[2025-08-25 00:18:54] Bot: Result: 17
+
+[2025-08-25 00:22:37] You: add 9 and 8
+[2025-08-25 00:22:37] Bot: Result: 17
+
+[2025-08-25 00:22:44] You: Multiply 9 and 8, and also tell me the capital of Japan
+[2025-08-25 00:22:44] Bot: Graceful failure (no multi-step yet).
+
+[2025-08-25 00:22:57] You: 9 and 8
+[2025-08-25 00:22:57] Bot: The question is unclear.  What about 9 and 8?  Please provide a question.
+
+[2025-08-25 00:23:07] You: What is the capital of France?
+[2025-08-25 00:23:07] Bot: Paris
+
+[2025-08-25 00:23:35] You: define yourself
+[2025-08-25 00:23:35] Bot: I am a large language model, trained by Google.
+
