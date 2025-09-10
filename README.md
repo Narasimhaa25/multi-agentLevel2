@@ -34,7 +34,8 @@ The focus here is on tool usage:
 💬 Example Interactions
 
    ✅ Example 1 —Math with tool
-        You: What is 12 times 7?
+       	
+		 You: What is 12 times 7?
         Bot: 
             Result: 84
 
@@ -56,4 +57,29 @@ The focus here is on tool usage:
          Bot:
                Graceful failure (no multi-step yet). 
 
+✅ Example 5 —Normal
 
+
+			You: Explain more about Paris
+			Bot: 
+				Paris, officially Paris, is the capital and most populous city of France.  It's a global center for art, fashion, gastronomy, and culture, renowned for its history, architecture, and influence on world affairs.  Here's a breakdown of key aspects:
+				
+				* **History:**  Paris boasts a history spanning millennia, from a Celtic settlement to a Roman town (Lutetia), a medieval capital, and the center of the French Revolution and subsequent empires.  Its historical landmarks, like the Louvre Museum, Notre Dame Cathedral, and the Arc de Triomphe, reflect this rich past.
+				
+				* **Architecture:** Paris is famous for its classic Haussmann-era architecture, characterized by wide boulevards, elegant buildings, and a consistent aesthetic.  It also features a diverse range of architectural styles, from medieval gothic to modern and contemporary designs.
+				
+				* **Culture and Arts:**  Paris is a global hub for art and culture, home to world-class museums like the Louvre (housing the Mona Lisa), the Musée d'Orsay (Impressionist and Post-Impressionist art), and the Centre Pompidou (modern art).  It's also a significant center for theatre, opera, music, and literature.
+				
+				* **Gastronomy:**  Parisian cuisine is globally renowned, offering everything from Michelin-starred restaurants to charming bistros and vibrant street food scenes.  The city is also known for its bakeries, patisseries, and wine culture.
+				
+				* **Fashion:**  Paris is a leading global fashion capital, hosting prestigious fashion weeks and housing flagship stores of major designers.  Its influence on trends and style is undeniable.
+				
+				* **Tourism:** Paris is one of the world's most visited cities, attracting millions of tourists annually.  Iconic landmarks, charming neighborhoods, and a vibrant atmosphere contribute to its appeal.
+				
+				* **Modern Life:** While steeped in history, Paris is a modern metropolis with a bustling business district, a diverse population, and a vibrant contemporary cultural scene.  Challenges include overcrowding, high cost of living, and managing the influx of tourists.
+				
+				
+				In short, Paris is more than just a city; it's a symbol of romance, elegance, and cultural richness, constantly evolving while retaining its historical charm.
+<img width="1680" height="1050" alt="Screenshot 2025-09-10 at 19 11 39" src="https://github.com/user-attachments/assets/d7d66f17-6119-4d6d-ad34-4baf4078be90" />
+
+ 
