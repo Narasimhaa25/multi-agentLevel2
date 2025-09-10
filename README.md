@@ -24,6 +24,9 @@ The requirements.txt includes:
 
 google-generativeai
 python-dotenv
+
+
+
 -----------------------------------------------------------------------------------
 4.create .env file in the same directory with your Gemini api key:
 
