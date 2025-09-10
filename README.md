@@ -16,7 +16,7 @@ The focus here is on tool usage:
 	2.	Clone this repository and navigate to the level2 directory.
 	3.	Install dependencies:
 
-
+--------------------------------------------------------------------------------
  pip install -r ../requirements.txt
 
 The requirements.txt includes:
@@ -24,7 +24,7 @@ The requirements.txt includes:
 
 google-generativeai
 python-dotenv
-
+-----------------------------------------------------------------------------------
 4.create .env file in the same directory with your Gemini api key:
 
 GEMINI_API_KEY=your_api_key_here
